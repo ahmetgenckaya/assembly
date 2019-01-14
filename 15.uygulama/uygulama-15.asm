@@ -1,0 +1,26 @@
+	__CONFIG H'3F31'
+	LIST P=16F877A
+	#INCLUDE <P16F877A.INC>
+	ORG 0X00
+	GOTO ANA_METOT
+
+;portb'deki 00000001 deðerini sola doðru kaydýran 7.bite geldikten sonra tekrar 0.bite dönmesini saðlayan uygulama
+	
+ANA_METOT
+	BANKSEL TRISB
+	CLRF TRISB
+	BANKSEL PORTB
+	MOVLW B'00000001'
+	MOVWF PORTB
+
+DONGU
+	RLF PORTB,F
+	BTFSC PORTB,7
+	GOTO DONGU
+	GOTO TEKRAR_0
+
+TEKRAR_0
+	MOVLW B'00000001'
+	MOVWF PORTB
+
+END

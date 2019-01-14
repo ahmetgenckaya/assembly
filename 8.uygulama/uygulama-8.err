@@ -1,0 +1,7 @@
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 4 : Found label after column 1. (SAYAC_1)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 5 : Found label after column 1. (SAYAC_2)
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 57 : Using default destination of 1 (file).
+Message[305] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 59 : Using default destination of 1 (file).
+Warning[205] D:\MIKROISLEMCILER\2018GUZDONEMI\8.UYGULAMA\UYGULAMA-8.ASM 63 : Found directive in column 1. (END)

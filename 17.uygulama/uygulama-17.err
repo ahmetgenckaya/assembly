@@ -1,0 +1,6 @@
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\17.UYGULAMA\UYGULAMA-17.ASM 4 : Found label after column 1. (DEG1)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\17.UYGULAMA\UYGULAMA-17.ASM 5 : Found label after column 1. (DEG2)
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\17.UYGULAMA\UYGULAMA-17.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\17.UYGULAMA\UYGULAMA-17.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\17.UYGULAMA\UYGULAMA-17.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\MIKROISLEMCILER\2018GUZDONEMI\17.UYGULAMA\UYGULAMA-17.ASM 63 : Found directive in column 1. (END)

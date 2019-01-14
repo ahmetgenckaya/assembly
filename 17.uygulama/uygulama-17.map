@@ -1,0 +1,48 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Oct 21 17:55:06 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000050
+.config_2007_UYGULAMA-17.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000027      
+                            0x002007    0x002007      
+            41 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+          AZALTMA_KONTROL   0x000017    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                  BASADON   0x00001c    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                  GECIKME   0x00001f    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                 GERI_SAY   0x000012    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                  KONTROL   0x00000f    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                   TEKRAR   0x000021    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                 TEKRAR_2   0x000023    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                  KONTROL   0x00000f    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                 GERI_SAY   0x000012    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+          AZALTMA_KONTROL   0x000017    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                  BASADON   0x00001c    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                  GECIKME   0x00001f    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                   TEKRAR   0x000021    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+                 TEKRAR_2   0x000023    program     static D:\mikroislemciler\2018GuzDonemi\17.uygulama\uygulama-17.asm
+
+

@@ -1,0 +1,6 @@
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\4.UYGULAMA\UYGULAMA-4.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\4.UYGULAMA\UYGULAMA-4.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\4.UYGULAMA\UYGULAMA-4.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\4.UYGULAMA\UYGULAMA-4.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\4.UYGULAMA\UYGULAMA-4.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\MIKROISLEMCILER\2018GUZDONEMI\4.UYGULAMA\UYGULAMA-4.ASM 107 : Found directive in column 1. (END)

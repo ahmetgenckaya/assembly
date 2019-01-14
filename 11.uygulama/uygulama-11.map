@@ -1,0 +1,40 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Sun Oct 14 18:35:56 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00002e
+.config_2007_UYGULAMA-11.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000016      
+                            0x002007    0x002007      
+            24 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+                  KONTROL   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+            TASMA_NEGATIF   0x000015    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+            TASMA_POZITIF   0x000013    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+                  KONTROL   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+            TASMA_POZITIF   0x000013    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+            TASMA_NEGATIF   0x000015    program     static D:\mikroislemciler\2018GuzDonemi\11.uygulama\uygulama-11.asm
+
+

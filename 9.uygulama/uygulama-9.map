@@ -1,0 +1,40 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Thu Oct 11 23:30:54 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000028
+.config_2007_UYGULAMA-9.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000013      
+                            0x002007    0x002007      
+            21 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+            DEGERLER_ESÝT   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+      DEGERLER_ESÝT_DEGÝL   0x000012    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+                  KONTROL   0x00000b    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+                  KONTROL   0x00000b    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+            DEGERLER_ESÝT   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+      DEGERLER_ESÝT_DEGÝL   0x000012    program     static D:\mikroislemciler\2018GuzDonemi\9.uygulama\uygulama-9.asm
+
+

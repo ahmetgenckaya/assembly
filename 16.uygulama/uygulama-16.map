@@ -1,0 +1,44 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sat Oct 20 21:31:07 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000040
+                   .cinit    romdata   0x000020    program   0x000004
+.config_2007_UYGULAMA-16.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000021      
+                            0x002007    0x002007      
+            35 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                  GECIKME   0x000017    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                   TEKRAR   0x000019    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                  TEKRAR2   0x00001b    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                 TOPLAM_H   0x000014    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                 TOPLAM_L   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                 TOPLAM_L   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                 TOPLAM_H   0x000014    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                  GECIKME   0x000017    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                   TEKRAR   0x000019    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+                  TEKRAR2   0x00001b    program     static D:\mikroislemciler\2018GuzDonemi\16.uygulama\uygulama-16.asm
+
+

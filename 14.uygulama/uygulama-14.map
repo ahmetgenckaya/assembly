@@ -1,0 +1,42 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Oct 19 13:07:52 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00003a
+                   .cinit    romdata   0x00001d    program   0x000004
+.config_2007_UYGULAMA-14.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00001e      
+                            0x002007    0x002007      
+            32 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+                  KONTROL   0x00000f    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+               LED_SONDUR   0x00001b    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+                  LED_YAK   0x000018    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+             SAYICI_ARTIR   0x000012    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+                  KONTROL   0x00000f    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+             SAYICI_ARTIR   0x000012    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+                  LED_YAK   0x000018    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+               LED_SONDUR   0x00001b    program     static D:\mikroislemciler\2018GuzDonemi\14.uygulama\uygulama-14.asm
+
+

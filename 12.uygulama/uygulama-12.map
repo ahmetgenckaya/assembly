@@ -1,0 +1,40 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Mon Oct 15 18:09:14 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00002e
+                   .cinit    romdata   0x000017    program   0x000004
+.config_2007_UYGULAMA-12.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000018      
+                            0x002007    0x002007      
+            26 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+                TASMA_VAR   0x000013    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+                TASMA_YOK   0x000015    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+           TOPLAM_KONTROL   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+           TOPLAM_KONTROL   0x000010    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+                TASMA_VAR   0x000013    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+                TASMA_YOK   0x000015    program     static D:\mikroislemciler\2018GuzDonemi\12.uygulama\uygulama-12.asm
+
+
